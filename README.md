@@ -106,7 +106,8 @@ Order value buckets:
 ## Visualization
 All analytical results and charts are organized separately for clarity.
 
-**Charts & visual summaries:**
+**Charts & visual summaries:** [View Charts Folder](charts)
+
 
 ---
 
