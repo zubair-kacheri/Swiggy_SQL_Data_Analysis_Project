@@ -106,7 +106,7 @@ Order value buckets:
 ## Visualization
 All analytical results and charts are organized separately for clarity.
 
-**Charts & visual summaries:** [View Charts Folder](charts)
+**Charts & visual summaries:** [View Charts Folder](https://github.com/zubair-kacheri/Swiggy_SQL_Data_Analysis_Project/tree/main/Charts)
 
 
 ---
